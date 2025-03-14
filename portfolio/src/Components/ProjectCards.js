@@ -82,9 +82,10 @@ function ProjectCard({ title, description, image, githubLink, deployLink, date }
             sx={{
               marginTop: "10px",
               color: "#ccc",
-              fontFamily: "'Raleway', sans-serif",
+              fontFamily: "'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif",
               textAlign: "left",
               whiteSpace: "pre-line",
+              fontSize: "18px",
             }}
           >
             {description}
