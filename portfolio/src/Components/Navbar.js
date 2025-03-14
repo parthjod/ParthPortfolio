@@ -66,10 +66,10 @@ function Navbar() {
 }
 
 const navItems = [
-  { href: "/", icon: HomeIcon, label: "Home" },
-  { href: "/projects", icon: ComputerIcon, label: "Projects" },
-  { href: "/experience", icon: DomainIcon, label: "Experience" },
-  { href: "/resume", icon: DescriptionIcon, label: "Resume" },
+  { href: "https://parththejodportfolio.onrender.com", icon: HomeIcon, label: "Home" },
+  { href: "https://parththejodportfolio.onrender.com/projects", icon: ComputerIcon, label: "Projects" },
+  { href: "https://parththejodportfolio.onrender.com/experience", icon: DomainIcon, label: "Experience" },
+  { href: "https://parththejodportfolio.onrender.com/resume", icon: DescriptionIcon, label: "Resume" },
 ];
 
 export default Navbar;
